@@ -1,2 +1,1 @@
-# Customer_segmentation_Analysis
-Using python, Machine learning algorithm k-Means
+# Customer-Segmentation-using-K-Means-Clustering
